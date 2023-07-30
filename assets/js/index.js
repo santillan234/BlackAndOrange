@@ -79,7 +79,19 @@ $(document).ready(function(){
   });
 
   $("#enviarmensaje").click(function(){
-    alert("Mensaje Enviado!");
+    alert("Mensaje no enviado, por favor contactarse por WhatsApp o Linkedin!");
   });
 });
 
+
+//Para cambiar el title una vez que salis de la pagina - Inicio //
+let previousTitle = document.title;
+
+window.addEventListener('blur', () => {
+  previousTitle = document.title;
+  document.title = '¡No te vayas! ¡Vuelve! 😎';
+})
+window.addEventListener('focus', () => {
+  document.title = previousTitle;
+})
+//Para cambiar el title una vez que salis de la pagina - Fin //

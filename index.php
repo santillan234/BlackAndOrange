@@ -129,7 +129,7 @@
       </div>
       <div class="modal_titulo">Contactame</div>
       <div class="modal_mensaje mensaje5">
-        <form method="POST" action="enviarmail.php">
+        <form method="POST" action="">
           <div><input type="text" name="name" id="name" placeholder="Nombre"/></div>
           <div><input type="email" name="email" id="email" placeholder="Email"/></div>
           <div><textarea name="message" id="message" placeholder="Mensaje" rows="4" cols="19"></textarea></div>
