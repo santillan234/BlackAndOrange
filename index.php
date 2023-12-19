@@ -45,8 +45,8 @@
       </div>
       <div class="modal_titulo">¿Quién Soy?</div>
       <div class="modal_mensaje mensaje1">
-        <p>Hace algunos meses me embarqué en el maravilloso mundo de la Programación Web gracias a Leo, quién es un gran Programador de la Argentina. Actualmente soy un novato en el área, cada día estoy aprendiendo más conceptos y adquiriendo un poco más de experiencia.</p>
-        <p>Uno de mis sueños que más anhelo es poder acceder a un mejor futuro. Realmente me gustaría poder cambiar mi estilo de vida, ya que provengo de una familia con muy bajos recursos económicos. Siento que Dios me acompaña en cada paso que doy en mi vida y me ayuda a seguir creciendo.</p>
+        <p>A principios del año 2022, inicié mi fascinante viaje en el vasto universo de la Programación Web. En la actualidad, me autodefino como un desarrollador junior, inmerso en un constante proceso de aprendizaje donde absorbo nuevos conceptos y acumulo valiosa experiencia día tras día.</p>
+        <p>En este emocionante trayecto, persigo un anhelo profundo: la posibilidad de labrar un futuro más prometedor para mí. Originario de una familia con escasos recursos económicos, mi aspiración es trascender las limitaciones de mi entorno y transformar mi estilo de vida. En este desafío, siento una conexión espiritual palpable, experimentando la convicción de que Dios guía cada uno de mis pasos, brindándome fortaleza para seguir creciendo.</p>
       </div>
     </div>
   </div>
@@ -60,13 +60,14 @@
       <div class="modal_mensaje mensaje2">
         <p><i><u>DESARROLLADOR DE PÁGINAS WEB</u></i>
           <br> Proyectos Freelance, (Junio 2022 - Actual)
-          <br>- HTML5 - CSS3 (Bootstrap).
-          <br>- JavaScript: JQuery.
-          <br>- Base de datos: PHP, MySQL. 	
+          <br>- Frontend: HTML5, CSS3, JavaScript, React.js.
+          <br>- Backend: JavaScript, Node.js, Python.
+          <br>- Base de datos: MongoDB.
+          <br>- Git y Github.
         </p>
         <br>
-        <p><i><u>ADMINISTRATIVO GENERALISTA</u></i>
-          <br> 3D PARTS S.R.L, (Marzo 2021 - Actual)
+        <p><i><u>ADMINISTRATIVO COMERCIAL</u></i>
+          <br> 3D PARTS S.R.L, (Marzo 2021 - Noviembre 2023)
           <br>• Coordinador del equipo de trabajo.
           <br>• Asistencia a las áreas de administración, facturación, depósito y paquetería de Mercado Libre.
         </p>
@@ -89,7 +90,7 @@
       <div class="modal_titulo">Educación</div>
       <div class="modal_mensaje mensaje3">
         <p><i><u>ACADEMIA NUMEN - EDUCACIÓN REMOTA</u></i>
-          <br>• Desarrollo Web Full Stack, (2022 - Actual)
+          <br>• Desarrollo Web Full Stack, (2022 - 2023)
         </p>
         <br>
         <p><i><u>INSTITUTO NUESTRA SEÑORA DE LA PAZ</u></i>
@@ -98,7 +99,7 @@
         <br>
         <p><i><u>UNIVERSIDAD DE BUENOS AIRES (UBA)</u></i>
           <br>• Actuario en Economía, (2016-2020)
-          <br>• Incompleto - 13 materias aprobadas de 33.
+          <br>• En curso - 13 materias aprobadas de 33.
         </p>
       </div>
     </div>
@@ -116,7 +117,7 @@
           <br>• Nivel Escrito Básico.
         </p><br>
         <p><i><u>SERVICIO A LA COMUNIDAD - IGLESIA ECO</u></i>
-          <br>• Me desempeño en el área de enseñanza y cuidado de niños y niñas que concurren a la iglesia local de la edad de cinco a diez años.
+          <br>• Me desempeño en el área de enseñanza y cuidado de niños y niñas de edades que van desde los 5 hasta los 10 años.
         </p>     
       </div>
     </div>
@@ -139,11 +140,12 @@
         </form>
         
       <!-- Redes -->
-        <div class="pdf_cv">
+<!--        <div class="pdf_cv">
           <a href="https://drive.google.com/file/d/1KDPszOHaXW1H3Rtf_VkqdPTHiZ1s1Uel/view" target="_blank">
             <img alt="Curriculum en PDF" src="./assets/img/icono-pdf.png" title="Curriculum en PDF" widht="auto" height="50">
           </a>
         </div>
+-->
         <div class="linkedin">
           <a href="https://www.linkedin.com/in/rodrigo-santillan-300209253/" target="_blank">
             <img alt="Linkedin" src="./assets/img/icono-linkedin.png" title="Linkedin" widht="auto" height="45">
