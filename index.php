@@ -7,7 +7,6 @@
   <title>C.V - RodrigoSantillan</title>
   <link rel="shortcut icon" href="./assets/img/icono-logo.png" type="image/x-icon">
   <link rel="stylesheet" href="./assets/css/style.css">
-  <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 </head>
 
 <body>
@@ -164,7 +163,7 @@
   </footer>
   <!-- Fin Footer -->
   
-  <script src="./assets/js/jquery-3.6.3.min.js"></script>
+  <script src="./assets/js/jquery-3.6.3.min.js"></scrip>
   <script src="./assets/js/index.js"></script>
 
 </body>
